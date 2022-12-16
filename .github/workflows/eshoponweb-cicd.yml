@@ -9,8 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 977ba367-cbce-47a8-9925-a5a278c9b41c
-  WEBAPP-NAME: az400-webapp-rnjemb
-
+  WEBAPP-NAME: webapprichnjemb
 
 jobs:
   #Build, test and publish .net web project in repository
